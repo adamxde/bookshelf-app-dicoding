@@ -152,3 +152,4 @@ document.getElementById('bookForm').addEventListener('submit', addBook);
 window.addEventListener('DOMContentLoaded', renderBooks);
 
 console.log('Hello, world!');
+
